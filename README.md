@@ -1,1 +1,2 @@
 # Some_tools
+spann3r2nerf.py:将Spann3R得到的相机参数等信息转换为Blender和LLFF格式
